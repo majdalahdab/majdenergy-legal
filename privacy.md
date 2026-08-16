@@ -19,7 +19,7 @@ The Tool is single-user. It is not offered as a public service, is not made avai
 ## 2. Who Operates This Tool
 
 - Operator: An individual based in the United Arab Emirates
-- Contact: [CONTACT_EMAIL]
+- Contact: [alahdabmajd01@gmail.com]
 
 ## 3. Data We Access
 
@@ -64,4 +64,4 @@ This Privacy Policy may be updated from time to time to reflect changes to the T
 
 ## 10. Contact
 
-Questions about this Privacy Policy can be sent to: [CONTACT_EMAIL]
+Questions about this Privacy Policy can be sent to: [alahdabmajd01@gmail.com]
