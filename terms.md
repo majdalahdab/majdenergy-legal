@@ -54,4 +54,4 @@ These Terms are governed by the laws applicable in the United Arab Emirates, whe
 
 ## 10. Contact
 
-Questions about these Terms can be sent to: [CONTACT_EMAIL]
+Questions about these Terms can be sent to: alahdabmajd01@gmail.com
